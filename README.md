@@ -1,3 +1,3 @@
 # syam-apk-release
 
-Update
+Fixed AM Premium dan 9router
